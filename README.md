@@ -1,2 +1,3 @@
-# PIC32-PWM-candle-imitation
-burning imitation with MCU PIC32 MZ 
+The configuration of timers of the PIC32 microcontrollers
+
+xc32 compiler
